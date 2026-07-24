@@ -80,9 +80,9 @@ Software Developer • Full Stack Developer • AI & ML Enthusiast
 
 - 🏅 GATE 2026 Qualified
 
-- 🧩 Solved **250+ LeetCode Problems**
+- 🧩 Solved **500+ LeetCode Problems**
 
-- 📚 Solved **90+ GeeksforGeeks Problems**
+- 📚 Solved **300+ GeeksforGeeks Problems**
 
 - 🌱 Currently learning **Backend Development, Cloud & System Design**
 
