@@ -59,9 +59,25 @@ I love exploring modern technologies, solving algorithmic challenges, and contin
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" valign="top">
 
-<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+## 📌 Quick Facts
+
+🎓 Final Year B.Tech CSE
+
+💻 Software Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+🌍 Open Source Contributor
+
+🏅 GATE 2026 Qualified
+
+🎓 SheFi Scholar '26 | Season 17
+
+🛡️ DRDO Tech Intern
+
+🚀 Building Full Stack Applications
 
 </td>
 
