@@ -356,85 +356,61 @@ These experiences strengthened my teamwork, leadership, communication, and event
 ---
 # 🚀 Things I've Built
 
-<div align="center">
-
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ IntelliGuard NGFW
+## 🛡️ IntelliGuard NGFW
 
 **AI-Driven Next Generation Firewall**
 
 Developed during my **DRDO Internship**, IntelliGuard NGFW is an intelligent firewall designed to monitor network traffic, detect suspicious activities, and strengthen system security using AI-assisted analysis.
 
-**✨ Highlights**
+### ✨ Key Features
 
-- Intelligent packet inspection
-- Rule-based firewall engine
-- ML-assisted threat detection
-- Real-time monitoring dashboard
+- Intelligent Packet Inspection
+- Rule-based Firewall Engine
+- AI-powered Threat Detection
+- Real-time Traffic Monitoring
 
-**🛠 Tech Stack**
+**Tech Stack**
 
-`Python` `Flask` `Machine Learning` `Networking`
+`Python` `Flask` `Networking` `Machine Learning`
 
 <br>
 
-<a href="YOUR_GITHUB_REPO_LINK">
+<a href="YOUR_REPOSITORY_LINK">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="170"/>
+## ✈️ FlyTales
 
-</td>
+**AI Travel Planning Platform**
 
-</tr>
+An AI-powered travel planner that helps users discover destinations and generate personalized travel itineraries.
 
-</table>
+### ✨ Key Features
 
----
+- Smart Trip Recommendations
+- AI-generated Itineraries
+- Responsive Design
+- Modern User Interface
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### ✈️ FlyTales
-
-**AI-Powered Travel Planner**
-
-A smart travel planning platform that generates personalized itineraries, destination recommendations, and travel insights using AI.
-
-**✨ Highlights**
-
-- Personalized trip planning
-- AI itinerary generation
-- Responsive UI
-- User-friendly experience
-
-**🛠 Tech Stack**
+**Tech Stack**
 
 `React` `Node.js` `MongoDB`
 
 <br>
 
-<a href="YOUR_GITHUB_REPO_LINK">
+<a href="YOUR_REPOSITORY_LINK">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/201/201623.png" width="150"/>
 
 </td>
 
@@ -442,40 +418,59 @@ A smart travel planning platform that generates personalized itineraries, destin
 
 </table>
 
----
+<br>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 Meeting Transcript Summarizer
+## 📝 Meeting Transcript Summarizer
 
-Convert lengthy meeting transcripts into concise summaries using Natural Language Processing.
+Automatically converts lengthy meeting transcripts into concise summaries using Natural Language Processing.
 
-**✨ Highlights**
+### ✨ Key Features
 
-- AI-generated summaries
-- Keyword extraction
-- Time-saving automation
-- Clean interface
+- AI-generated Summaries
+- Keyword Extraction
+- Faster Documentation
+- Improved Productivity
 
-**🛠 Tech Stack**
+**Tech Stack**
 
 `Python` `NLP` `Machine Learning`
 
 <br>
 
-<a href="YOUR_GITHUB_REPO_LINK">
+<a href="YOUR_REPOSITORY_LINK">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3022/3022256.png" width="150"/>
+## 📚 Handwritten Notes → Flashcards
+
+An OCR-powered learning application that transforms handwritten notes into interactive flashcards.
+
+### ✨ Key Features
+
+- OCR Text Extraction
+- Automatic Flashcard Generation
+- Smart Revision Tool
+- Easy Learning Experience
+
+**Tech Stack**
+
+`Python` `OpenCV` `OCR`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -484,47 +479,6 @@ Convert lengthy meeting transcripts into concise summaries using Natural Languag
 </table>
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 📚 Handwritten Notes → Flashcards
-
-An OCR-powered application that converts handwritten notes into digital flashcards to make studying more efficient.
-
-**✨ Highlights**
-
-- OCR-based text extraction
-- Automatic flashcard generation
-- Study-friendly interface
-- Fast revision support
-
-**🛠 Tech Stack**
-
-`Python` `OpenCV` `OCR`
-
-<br>
-
-<a href="YOUR_GITHUB_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="150"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 ---
 
