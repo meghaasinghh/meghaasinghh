@@ -51,8 +51,8 @@ I love exploring modern technologies, solving algorithmic challenges, and contin
 - 💻 DRDO Tech Intern
 - 🎓 SheFi Scholar '26 | Season 17
 - 🌍 Open Source Contributor
-- 🧩 Solved **250+ LeetCode Problems**
-- 📚 Solved **90+ GeeksforGeeks Problems**
+- 🧩 Solved **500+ LeetCode Problems**
+- 📚 Solved **350+ GeeksforGeeks Problems**
 - 🏛 President — AI & Cybersecurity Club
 - 🎨 Former Graphic Design Intern
 - 🤝 Administration Cell Volunteer
