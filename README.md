@@ -88,7 +88,7 @@ I love exploring modern technologies, solving algorithmic challenges, and contin
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p >
 
 <a href="https://www.linkedin.com/in/megha-singh-16ba282a7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
